@@ -1,6 +1,6 @@
 ## Project Course
 
-**Detailed Video/Walkthrough Course (Free):** [techiescamp.com/courses/deploying-jenkins-aws/](https://techiescamp.com/p/project-jenkins-ha-setup-on-aws-terraform-ansible-packer)
+**Detailed Video/Walkthrough Course (Open Source):** [techiescamp.com/courses/deploying-jenkins-aws/](https://techiescamp.com/p/project-jenkins-ha-setup-on-aws-terraform-ansible-packer)
 
 ## Setup Architecture 
 
