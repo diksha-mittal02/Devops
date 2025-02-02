@@ -2,7 +2,7 @@
 
 DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 
-## Hit the Star! ⭐
+## do not Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
 
 ## Kubernetes Certification Voucher (UpTo 65% OFF - Cyber Monday Offer) 🎉
